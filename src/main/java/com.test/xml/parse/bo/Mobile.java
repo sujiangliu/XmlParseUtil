@@ -1,4 +1,4 @@
-package com.test.bo;
+package com.test.xml.parse.bo;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;

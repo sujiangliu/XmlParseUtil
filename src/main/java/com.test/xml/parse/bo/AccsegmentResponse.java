@@ -1,4 +1,4 @@
-package com.test.bo;
+package com.test.xml.parse.bo;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;

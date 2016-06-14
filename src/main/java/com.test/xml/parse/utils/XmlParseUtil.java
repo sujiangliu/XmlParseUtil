@@ -1,4 +1,4 @@
-package com.test.utils;
+package com.test.xml.parse.utils;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

@@ -1,4 +1,4 @@
-package com.test.bo;
+package com.test.xml.parse.bo;
 
 import java.io.Serializable;
 import java.util.List;
